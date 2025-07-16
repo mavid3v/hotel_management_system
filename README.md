@@ -28,7 +28,6 @@ Go back to the "hotel_management_system" directory
 ```
 cd ..
 cd ..
-cd ..
 ```
 
 Install Django (Python Framework):
